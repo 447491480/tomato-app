@@ -1,4 +1,4 @@
-package com.tomao;
+package com.tomato;
 
 import android.app.Activity;
 import android.os.Bundle;
