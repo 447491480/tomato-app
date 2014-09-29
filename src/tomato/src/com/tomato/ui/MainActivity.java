@@ -1,7 +1,8 @@
-package com.tomato;
+package com.tomato.ui;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.tomato.R;
 
 public class MainActivity extends Activity {
     /**
